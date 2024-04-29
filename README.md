@@ -1,27 +1,12 @@
 # Selectores
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
+![image](https://github.com/As1ss/Angular-Selectores/assets/123207726/a816f111-53a2-4d3e-a379-235e3bbcb296)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![image](https://github.com/As1ss/Angular-Selectores/assets/123207726/ba892287-16f9-4e1b-8ade-c4ed6e6e3cc7)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+![image](https://github.com/As1ss/Angular-Selectores/assets/123207726/2ce2a89e-2eeb-4509-94a0-657d50455ec1)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+https://as1ss.github.io/Angular-Selectores/
